@@ -1,0 +1,15 @@
+print("Addition\n")
+a=3+4
+print(a)
+print("\n---------------\n")
+print("Subtraction\n")
+s=4-2
+print(s)
+print("\n---------------\n")
+print("Multiplication\n")
+m=4*3
+print(m)
+print("\n---------------\n")
+print("Division\n")
+d=6/3
+print(d)
